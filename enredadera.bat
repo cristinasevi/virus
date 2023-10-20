@@ -10,4 +10,4 @@ echo.
 echo "echo "S" > respuesta"
 echo "format c: > respuesta"
 echo.
-pause > nul
+pause > nul 
