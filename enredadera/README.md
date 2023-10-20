@@ -4,5 +4,6 @@ Ejecuta virus.bat como Administrador y reinicia el sistema para que los cambios 
 
 Después, si queremos que deje de funcionar cada vez que arranquemos el sistema:
 Inicio --> Ejecutar --> regedit
+
 Una vez en el registro Edición --> Buscar y escribimos buscar hola, y borramos la clave hola que hemos creado en:
 HKEY_CURRENT_USER\Software\Microsoft\Windows\Current\Run
