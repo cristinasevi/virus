@@ -7,3 +7,5 @@ Inicio --> Ejecutar --> regedit
 
 Una vez en el registro Edición --> Buscar y escribimos buscar enredadera, y borramos la clave enredadera que hemos creado en:
 HKEY_CURRENT_USER\Software\Microsoft\Windows\Current\Run
+
+Al reiniciar el sistema, al tener el archivo antivirus.bat, ya no sale la ventana con el mensaje.
